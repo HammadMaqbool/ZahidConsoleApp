@@ -1,0 +1,14 @@
+C:\Users\hamma\RiderProjects\ZahidConsoleApp\ZahidConsoleApp\bin\Debug\net8.0\ZahidConsoleApp.exe
+C:\Users\hamma\RiderProjects\ZahidConsoleApp\ZahidConsoleApp\bin\Debug\net8.0\ZahidConsoleApp.deps.json
+C:\Users\hamma\RiderProjects\ZahidConsoleApp\ZahidConsoleApp\bin\Debug\net8.0\ZahidConsoleApp.runtimeconfig.json
+C:\Users\hamma\RiderProjects\ZahidConsoleApp\ZahidConsoleApp\bin\Debug\net8.0\ZahidConsoleApp.dll
+C:\Users\hamma\RiderProjects\ZahidConsoleApp\ZahidConsoleApp\bin\Debug\net8.0\ZahidConsoleApp.pdb
+C:\Users\hamma\RiderProjects\ZahidConsoleApp\ZahidConsoleApp\obj\Debug\net8.0\ZahidConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamma\RiderProjects\ZahidConsoleApp\ZahidConsoleApp\obj\Debug\net8.0\ZahidConsoleApp.AssemblyInfoInputs.cache
+C:\Users\hamma\RiderProjects\ZahidConsoleApp\ZahidConsoleApp\obj\Debug\net8.0\ZahidConsoleApp.AssemblyInfo.cs
+C:\Users\hamma\RiderProjects\ZahidConsoleApp\ZahidConsoleApp\obj\Debug\net8.0\ZahidConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\hamma\RiderProjects\ZahidConsoleApp\ZahidConsoleApp\obj\Debug\net8.0\ZahidConsoleApp.dll
+C:\Users\hamma\RiderProjects\ZahidConsoleApp\ZahidConsoleApp\obj\Debug\net8.0\refint\ZahidConsoleApp.dll
+C:\Users\hamma\RiderProjects\ZahidConsoleApp\ZahidConsoleApp\obj\Debug\net8.0\ZahidConsoleApp.pdb
+C:\Users\hamma\RiderProjects\ZahidConsoleApp\ZahidConsoleApp\obj\Debug\net8.0\ZahidConsoleApp.genruntimeconfig.cache
+C:\Users\hamma\RiderProjects\ZahidConsoleApp\ZahidConsoleApp\obj\Debug\net8.0\ref\ZahidConsoleApp.dll
